@@ -46,7 +46,6 @@ https://www.curseforge.com/api/v1/mods/268567/files/3875979/download
 https://www.curseforge.com/api/v1/mods/328085/files/4835188/download
 https://www.curseforge.com/api/v1/mods/663125/files/4743528/download
 https://www.curseforge.com/api/v1/mods/79616/files/4944297/download
-https://www.curseforge.com/api/v1/mods/256256/files/3712732/download
 https://www.curseforge.com/api/v1/mods/422301/files/5158341/download
 https://www.curseforge.com/api/v1/mods/439890/files/4683727/download
 https://www.curseforge.com/api/v1/mods/317780/files/5073778/download
