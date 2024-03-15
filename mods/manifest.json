@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Hentaila 2.0",
-  "version": "1",
+  "version": "2",
   "author": "",
   "files": [
     {
@@ -367,11 +367,6 @@
     {
       "projectID": 245755,
       "fileID": 4943242,
-      "required": true
-    },
-    {
-      "projectID": 231951,
-      "fileID": 4412849,
       "required": true
     }
   ],

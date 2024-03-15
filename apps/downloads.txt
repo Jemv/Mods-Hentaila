@@ -69,4 +69,3 @@ https://www.curseforge.com/api/v1/mods/69162/files/4801048/download
 https://www.curseforge.com/api/v1/mods/268560/files/3875976/download
 https://www.curseforge.com/api/v1/mods/583345/files/4552152/download
 https://www.curseforge.com/api/v1/mods/245755/files/4943242/download
-https://www.curseforge.com/api/v1/mods/231951/files/4412849/download
